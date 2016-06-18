@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="steel furniture, steel furniture manufacturer, office steel furniture, office furniture, office furniture odisha, Office Steel Furniture Dealers, Govt Office Steel Furniture Supplier, almirah,steel cupboard">
+    <meta name="author" content="">
+
+    <title>Asutosh Industries | Steel Furniture Manufacturer &amp; Supplier Odisha</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/business-casual.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+    <!--#include file="includes/header.html" -->
+    <div class="container">
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <!-- <h2 class="brand-before">
+                        <small></small><strong></strong>
+                    </h2> -->
+                    <h1 class="brand-name"><small>Welcome to</small> <stong>Asutosh Industries</stong></h1>
+                    <hr>
+                    <h2 class="intro-text text-center">Steel FURNITURE Manufacturer &amp; Supplier
+                        <!-- <strong>worth visiting</strong> -->
+                    </h2>
+                    <hr>
+                    <img class="img-responsive img-border img-left" src="img/almirah.jpg" alt="">
+                    <hr class="visible-xs">
+                    <p>Manufacturers &amp; Suppliers of Office Furniture. The  advantages of our products are High Quality, Timely Delivery and Cost Effective. We are one of the prominent office furniture manufacturers, exporters and suppliers in Odisha, India. Our office furniture series are manufactured from the choicest steel and other materials that is always procured from reliable vendors. The materials are first tested by our testing team on various parameters and then procured. </p>
+                    <p>In our plant, located in Bhubaneswar, Odisha, we make use of cutting edge technology. We monitor our products at all stages in order to make a world-class final product. Our office furniture supplied to our global clients has revolutionized the industry with exquisite designs and unique patterns and finish.</p>
+                   
+                </div>
+            </div>
+        </div>
+
+       <!--  <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Beautiful boxes
+                        <strong>to showcase your content</strong>
+                    </h2>
+                    <hr>
+                    <p>Use as many boxes as you like, and put anything you want in them! They are great for just about anything, the sky's the limit!</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                </div>
+            </div>
+        </div> -->
+
+    </div>
+    <!-- /.container -->
+
+    <!--#include file="includes/footer.html" -->
+    
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+   
+
+</body>
+
+</html>
